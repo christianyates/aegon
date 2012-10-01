@@ -1,0 +1,647 @@
+
+body {
+  color: #666666;
+  background-color: #000000;
+}
+
+h1 {
+  color: #ff7800;
+}
+
+h2 {
+  color: #0560BB;
+}
+
+h3 {
+  color: #999999;
+}
+
+h4 {
+/*  color: #ffffff;*/
+}
+
+blockquote {
+  color: #999999;
+}
+
+.content strong {
+/*  color: #ffffff;*/
+}
+
+ul {
+  color: #999999;
+}
+
+.menu-dropdown ul.menu .menu li {
+  border-color: #666666;
+  background-color: #000000;
+}
+
+.menu-dropdown .menu .menu .first > a {
+  background-color: transparent;
+}
+
+.stack-preheader {
+  background-color: #000000;
+}
+
+.wrapper-header {
+  background-color: #ff7800;
+}
+
+.rotating-banner .rb-slide {
+/*  border-color: #ffffff;*/
+}
+
+#block-feedback-feedback a {
+/*  color: #ffffff;*/
+  background-color: #ff7800;
+}
+
+.faq-item-question-label {
+  color: #000000;
+  background-color: #ff7800;
+}
+
+.node-faq-item .content {
+  background-color: #000000;
+}
+
+.page-testimonials .simpleview .content .node-testimonial {
+  color: #999999;
+}
+
+.node + .node-article,.node + .node-blog {
+  background-color: transparent;
+}
+
+.node .meta {
+  color: #999999;
+}
+
+a {
+  color: #333333;
+}
+
+a:visited {
+  color: #333333;
+}
+
+li a.active {
+  color: #333333;
+}
+
+button {
+  color: #333333;
+  border-color: #666666;
+}
+
+input.form-submit {
+  color: #333333;
+  border-color: #666666;
+}
+
+.rotating-banner a {
+  color: #333333;
+}
+
+a:active {
+/*  color: #ffffff;*/
+}
+
+h2 a {
+/*  color: #ffffff;*/
+}
+
+h2 a:link {
+/*  color: #ffffff;*/
+}
+
+h2 a:visited {
+/*  color: #ffffff;*/
+}
+
+.sidebar h2 {
+/*  color: #ffffff;*/
+}
+
+#site-name a {
+/*  color: #ffffff;*/
+}
+
+.stack-content-inner .block h2 {
+/*  color: #ffffff;*/
+}
+
+.menu li a:active {
+/*  color: #ffffff;*/
+}
+
+.menu li .active {
+/*  color: #ffffff;*/
+}
+
+.breadcrumb a:hover {
+/*  color: #ffffff;*/
+}
+
+#forum th {
+/*  color: #ffffff;*/
+}
+
+#forum th a {
+/*  color: #ffffff;*/
+}
+
+table th {
+/*  color: #ffffff;*/
+}
+
+.faq-item-inline-question-title a {
+/*  color: #ffffff;*/
+}
+
+a:hover {
+  color: #999999;
+}
+
+.stack-navigation .menu a:hover {
+  color: #999999;
+}
+
+h2 a:hover {
+  color: #999999;
+}
+
+h5 {
+  color: #999999;
+}
+
+h6 {
+  color: #999999;
+}
+
+.stack-slogan {
+  color: #999999;
+}
+
+dt {
+  color: #999999;
+}
+
+intro {
+  color: #999999;
+}
+
+block {
+  color: #999999;
+}
+
+.breadcrumb {
+  color: #999999;
+}
+
+.breadcrumb a {
+  color: #999999;
+}
+
+#forum tr td.last-reply {
+  color: #999999;
+}
+
+#forum tr td.created {
+  color: #999999;
+}
+
+li a.active:hover {
+  color: #999999;
+}
+
+.comment h3 a {
+  color: #999999;
+}
+
+.field-name-field-testimonial-author {
+  color: #999999;
+}
+
+.block h2 {
+  color: #0560BB;
+}
+
+.controls.numbers a.activeSlide {
+  color: #ff7800;
+}
+
+#site-name a:hover {
+  color: #666666;
+}
+
+.field-name-field-testimonial-affiliation {
+  color: #666666;
+}
+
+.menu li a {
+  color: #666666;
+}
+
+.controls.buttons a.activeSlide {
+  background-color: #ff7800;
+}
+
+.comment.odd {
+  background-color: #000000;
+}
+
+.stack-navigation ul.menu .menu li {
+/*  border-color: #ffffff;*/
+}
+
+.menu-dropdown .menu .expanded:hover > a {
+  color: #999999;
+}
+
+.menu-dropdown .menu .active-trail > a {
+/*  color: #ffffff;*/
+}
+
+.menu-dropdown .menu .active-trail:hover > a {
+  color: #999999;
+}
+
+.menu-dropdown .menu .menu li:hover > a {
+  color: #999999;
+}
+
+.menu-dropdown .menu .menu a.active {
+/*  color: #ffffff;*/
+}
+
+.menu-dropdown .menu .menu li:hover > .active {
+/*  color: #ffffff;*/
+}
+
+.menu-dropdown .menu .menu .active-trail > a {
+/*  color: #ffffff;*/
+}
+
+.menu-dropdown .menu .menu .active-trail:hover > a {
+  color: #999999;
+}
+
+
+#header-inner #site-name a:link {
+  border-color: #000000;
+}
+
+#banner .stack-width {
+  background-color: #999999;
+}
+
+#content-inner .box {
+  background-color: #ffffff;
+}
+
+.menu-dropdown .more-indicator {
+  background-color: transparent;
+}
+
+#header-region .block .container-inline .form-item #edit-search-block-form--2 {
+  border-color: #999999;
+}
+
+code {
+  background-color: #666666;
+}
+
+#block-feedback-feedback a:hover {
+  background-color: #999999;
+}
+
+#preheader-second-region #edit-submit {
+  color: #ffffff;
+}
+
+#main .comment-wrapper .comment {
+  background-color: transparent;
+}
+
+#banner-region .content {
+  background-color: transparent;
+}
+
+#navigation {
+  background-color: transparent;
+}
+
+#forum tbody {
+  border-color: #666666;
+}
+
+#precontent .stack-width {
+  background-color: #bbbbbb;
+}
+
+#main #page-title {
+  color: #333333;
+}
+
+#header-inner #logo img {
+  border-color: transparent;
+}
+
+.page-width #content #site-slogan-stack .stack-width {
+  background-color: #ffffff;
+}
+
+#content #site-slogan-stack .stack-width {
+  background-color: #ffffff;
+}
+
+#site-slogan-stack {
+  background-color: #dddddd;
+}
+
+#main #edit-submit {
+  color: #dddddd;
+}
+
+#precontent-second-region a img {
+  background-color: transparent;
+  border-color: transparent;
+}
+
+#header #navigation {
+  background-color: transparent;
+}
+
+#banner-region .rb-slides .rb-slide {
+  background-color: transparent;
+}
+
+#prefooter-first-region .content p {
+  color: #999999;
+}
+
+#breadcrumb .breadcrumb a {
+  color: #666666;
+}
+
+#sidebar-a .block {
+  border-color: #bbbbbb;
+}
+
+#precontent {
+  background-color: #dddddd;
+}
+
+#navigation-region ul li {
+  background-color: transparent;
+}
+
+.page-width #header {
+/*  background-color: #ffffff;*/
+}
+
+#main .view-categories3 .field-content a {
+  color: #333333;
+}
+
+#main h2 {
+  color: #666666;
+}
+
+#site-slogan-region .view-carousel a img {
+  border-color: #767676;
+}
+
+#banner-region .numbers a {
+  border-color: transparent;
+  color: #bcbcbc;
+}
+
+#navigation #navigation-region .block ul li a {
+  color: #eeeeee;
+}
+
+#header-region #edit-submit {
+  background-color: #bbbbbb;
+}
+
+#navigation-region li a {
+  color: #dddddd;
+}
+
+#main #styles-1 img {
+  border-color: #999999;
+}
+
+#main p a {
+  color: #333333;
+}
+
+.rotating-banner {
+  color: #333333;
+}
+
+#messages-region .messages a {
+  color: #ffffff;
+}
+
+.stack {
+  border-color: #000000;
+}
+
+#sidebar-a #edit-submit {
+  color: #dddddd;
+}
+
+#main #edit-preview {
+  color: #dddddd;
+}
+
+#banner-region .rb-textbox-type-header a {
+  color: #333333;
+}
+
+#header-inner {
+  background-color: transparent;
+}
+
+#content-inner .stack-width {
+  background-color: #ffffff;
+}
+
+#header #header-inner .col-c #site-name {
+  color: #000000;
+}
+
+#main .meta .submitted {
+  color: #333333;
+}
+
+#content-inner {
+  background-color: #dddddd;
+}
+
+#navigation .stack-width {
+  border-color: #333333;
+}
+
+#messages {
+  background-color: #dddddd;
+}
+
+#copyright {
+  background-color: #989898;
+}
+
+#site-slogan-region #site-slogan {
+  background-color: transparent;
+}
+
+#sidebar-a #edit-submit--2 {
+  color: #dddddd;
+}
+
+.page-width #header #header-inner .col-c #site-name a {
+  border-color: #000000;
+}
+
+#header-inner #site-name a {
+  border-color: transparent;
+}
+
+#copyright .page-width .stack-width {
+  background-color: #000000;
+}
+
+.menu li a {
+  border-color: #999999;
+}
+
+#site-name a {
+  border-color: #000000;
+}
+
+h2 {
+  border-color: #666666;
+  color: #666666;
+}
+
+.stack-navigation .menu .menu li {
+  border-color: #ffffff;
+  background-color: #000000;
+}
+
+#messages-region .messages {
+  border-color: transparent;
+  background-color: transparent;
+  color: #ffffff;
+}
+
+#banner-region a .custom {
+  color: #333333;
+}
+
+.menu li a.active {
+  color: #ffffff;
+}
+
+#site-slogan-stack .inset-2 {
+  background-color: transparent;
+}
+
+.page-width #footer #prefooter {
+  background-color: #989898;
+}
+
+#banner {
+  border-color: #ababab;
+  background-color: #dddddd;
+}
+
+#prefooter-first-region .block h2 {
+  border-color: transparent;
+}
+
+#site-slogan-stack .stack-width {
+  background-color: #ffffff;
+}
+
+.page-width #header #navigation {
+  border-color: transparent;
+  background-color: transparent;
+}
+
+#header {
+  background-color: transparent;
+}
+
+#main .meta .created {
+  color: #333333;
+}
+
+.page-width #header #header-inner .col-c #site-name {
+  color: #000000;
+}
+
+body {
+  background-color: #ffffff;
+}
+
+#main h2 a {
+  color: #666666;
+}
+
+#main .block .node h2 a {
+  border-color: #999999;
+  color: #666666;
+}
+
+#site-slogan-stack #site-slogan-region #site-slogan {
+  background-color: #ffffff;
+}
+
+#site-name {
+  border-color: #333333;
+}
+
+#preheader {
+  background-color: transparent;
+  border-color: transparent;
+}
+
+#prefooter .stack-width {
+  background-color: #333333;
+}
+
+#prefooter-third-region .follow-links a {
+  color: #666666;
+}
+
+#main .form-item label {
+  color: #333333;
+}
+
+#content #content-inner #sidebar-a .block h2 {
+  color: #666666;
+}
+
+#prefooter-first-region h2 {
+  color: #999999;
+  border-color: #666666;
+}
+
+#navigation-region .content ul {
+  background-color: transparent;
+}
+
+#prefooter-first-region .follow-links a {
+  color: #bbbbbb;
+}
+
+#sidebar-a h2 {
+  color: #666666;
+}
+
