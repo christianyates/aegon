@@ -36,7 +36,7 @@
   		<header>
   			<div id="header">
   				<div class="wrapper">
-  					<h1 class="logo"><span>AEGON</span><img src="/sites/all/themes/aegon/media/aegon-logo-header.gif" alt="AEGON logo" /></h1>
+  					<h1 class="logo"><span>AEGON</span><a href="/"><img src="/sites/all/themes/aegon/media/aegon-logo-header.gif" alt="AEGON logo" /></a></h1>
   					<ul class="navigation-portals">
   						<li><strong><A title="" href="">Particulier</A></strong></li>
   						<li><A title="" href="">Zakelijk</A></li>
